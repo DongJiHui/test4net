@@ -1,2 +1,2 @@
 # test4net
-测试能否联通Github
+测试能否访问Github
